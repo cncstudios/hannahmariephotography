@@ -254,7 +254,7 @@ div {
     display: flex;
 }
 .ds-split {
-    width: calc(100vw / 2);
+    width: calc(100vw / 3);
     height: 100%;
     padding: 1em;
     display: flex;
@@ -887,7 +887,7 @@ u {
     flex-grow: 1;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top center;
     background-image: url(../img/purchase-image.jpg);
 }
 .purchase-text-container {
